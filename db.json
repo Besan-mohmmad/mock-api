@@ -91,3 +91,35 @@
         "bathroom": 2,
         "type": "sale"
       }
+           {
+        "id": 10,
+        "url": "https://www12.0zz0.com/2023/08/21/11/572311466.png",
+        "address": "Gaza-Alwahda",
+        "price": 2500,
+        "description": "Stunning 5-bedroom home with 6 bathrooms available for rent. Enjoy modern amenities, a spacious backyard, and a serene environment.",
+        "bedroom": 5,
+        "bathroom": 6,
+        "type": "rent"
+    
+      },
+      {
+        "id": 11,
+        "url": "https://www12.0zz0.com/2023/08/21/11/572311466.png",
+        "address": "Bali'S Exotic Indonesian Escape",
+        "price": 2400,
+        "description": "Luxurious 4-bedroom home with 4 bathrooms. Offers a spacious backyard, modern amenities, and scenic views. Ideal for a stylish living experience.",
+        "bedroom": 4,
+        "bathroom": 4,
+        "type": "sale"
+      }, 
+      {
+        "id": 12,
+        "url": "https://www12.0zz0.com/2023/08/21/11/572311466.png",
+        "address": "Style Net-Zero Family Home",
+        "price": 10000,
+        "description": "Luxurious 4-bedroom home with 4 bathrooms. Offers a spacious backyard, modern amenities, and scenic views. Ideal for a stylish living experience.",
+        "bedroom": 3,
+        "bathroom": 2,
+        "type": "sale"
+      }
+

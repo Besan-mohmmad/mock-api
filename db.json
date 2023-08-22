@@ -90,36 +90,4 @@
         "bedroom": 3,
         "bathroom": 2,
         "type": "sale"
-      },
-      {
-        "id": 10,
-        "url": "https://www12.0zz0.com/2023/08/21/11/572311466.png",
-        "address": "The Uno Suites Rentals",
-        "price": 1500,
-        "description": "Luxurious 4-bedroom home with 4 bathrooms. Offers a spacious backyard, modern amenities, and scenic views. Ideal for a stylish living experience.",
-        "bedroom": 4,
-        "bathroom": 3,
-        "type": "sale"
-      },
-            {
-        "id": 11,
-        "url": "https://www12.0zz0.com/2023/08/21/11/572311466.png",
-        "address": "The Uno Suites Rentals",
-        "price": 1000,
-        "description": "Luxurious 4-bedroom home with 4 bathrooms. Offers a spacious backyard, modern amenities, and scenic views. Ideal for a stylish living experience.",
-        "bedroom": 5,
-        "bathroom": 3,
-        "type": "sale"
-      },
-            {
-        "id": 12,
-        "url": "https://www12.0zz0.com/2023/08/21/11/572311466.png",
-        "address": "The Uno Suites Rentals",
-        "price": 1500,
-        "description": "Luxurious 4-bedroom home with 4 bathrooms. Offers a spacious backyard, modern amenities, and scenic views. Ideal for a stylish living experience.",
-        "bedroom": 4,
-        "bathroom": 3,
-        "type": "sale"
       }
-    ]
-    }
